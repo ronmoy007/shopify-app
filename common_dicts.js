@@ -1,0 +1,28 @@
+const horarios = [
+  { label: "GMT-0:00", value: "GMT-0:00" },
+  { label: "GMT-1:00", value: "GMT-1:00" },
+  { label: "GMT-2:00", value: "GMT-2:00" },
+  { label: "GMT-3:00", value: "GMT-3:00" },
+  { label: "GMT-4:00", value: "GMT-4:00" },
+  { label: "GMT-5:00", value: "GMT-5:00" },
+  { label: "GMT-6:00", value: "GMT-6:00" },
+  { label: "GMT-7:00", value: "GMT-7:00" },
+  { label: "GMT-8:00", value: "GMT-8:00" },
+  { label: "GMT-9:00", value: "GMT-9:00" },
+  { label: "GMT-10:00", value: "GMT-10:00" },
+  { label: "GMT-11:00", value: "GMT-11:00" },
+  { label: "GMT-12:00", value: "GMT-12:00" },
+  { label: "GMT-13:00", value: "GMT-13:00" },
+  { label: "GMT-14:00", value: "GMT-14:00" },
+  { label: "GMT-15:00", value: "GMT-15:00" },
+  { label: "GMT-16:00", value: "GMT-16:00" },
+  { label: "GMT-17:00", value: "GMT-17:00" },
+  { label: "GMT-18:00", value: "GMT-18:00" },
+  { label: "GMT-19:00", value: "GMT-19:00" },
+  { label: "GMT-20:00", value: "GMT-20:00" },
+  { label: "GMT-21:00", value: "GMT-21:00" },
+  { label: "GMT-22:00", value: "GMT-22:00" },
+  { label: "GMT-23:00", value: "GMT-23:00" },
+];
+
+export { horarios };
